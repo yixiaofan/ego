@@ -1,0 +1,2 @@
+127.0.0.1 - - [02/Mar/2019:18:46:04 +0800] "GET /rest/itemcat/all?callback=? HTTP/1.1" 200 45865 http-bio-8081-exec-1 5922
+127.0.0.1 - - [02/Mar/2019:18:46:16 +0800] "POST /rest/itemcat/all?callback HTTP/1.1" 200 45864 http-bio-8081-exec-3 2017
